@@ -1,5 +1,5 @@
 # IrisPredictionML
-A Web App to predict the type of an Iris flower using Machine Learning
+A Web App to predict the type of an Iris flower using Machine Learning (Random Forest)
 
 ![alt text][image]
 
